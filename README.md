@@ -21,13 +21,7 @@
 
 ---
 
-## 👨‍💻 Team Members
 
-- Mukesh V  
-- Mukil Kumar V  
-- Aadhithya D  
-- Vinitha D  
-- Divya K  
 
 ---
 
@@ -128,8 +122,8 @@ python -m uvicorn train_model_api:app --reload --port 5000
 
 You can use the following credentials to test the platform:
 
-- **Username:** mukesh  
-- **Password:** vinitha
+- **Username:**sana
+- **Password:** sana@
   
 ## 📁 Folder Structure - RuralRise
 
