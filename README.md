@@ -1,4 +1,4 @@
-# 🌾 RuralRise: AI Powered Interview Assistant for Rural Youth
+# 🌾 Smart Hire :  AI Powered Interview Assistant
 
 ## 📌 Project Overview
 
@@ -16,8 +16,9 @@
 | Authentication | JWT (JSON Web Tokens)                        |
 | Database       | MongoDB                                      |
 | Python Backend | Flask                                        |
-| AI APIs        | FastAPI                                      |
-| AI Model       | Gemini AI                                    |
+| AI APIs        | FastAPI  
+| LLM Provider   |  Groq Cloud API                               |
+| AI Model       | LLaMA 3.1 (via Groq)                         |            
 
 ---
 
