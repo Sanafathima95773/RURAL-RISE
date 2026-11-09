@@ -1,4 +1,4 @@
-# 🌾 Smart Hire :  AI Powered Interview Assistant
+# 🌾 RuralRise – AI-Powered Career Development Platform
 
 ## 📌 Project Overview
 
